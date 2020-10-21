@@ -15,18 +15,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/show/{id}', [
-	'as' => 'show', 'car' => 'CarController@showCarAction'
-]);
-
-Route::get('/insert', [
-	'as' => 'insert', 'car' => 'CarController@insertCarAction'
-]);
-
-Route::get('/update/{id}', [
-	'as' => 'update', 'car' => 'CarController@updateCarAction'
-]);
-
-Route::get('/delete/{id}', [
-    'as' => 'delete', 'car' => 'CarController@deleteCarAction'
-]);
+Route::resource('crud', 'CrudController');

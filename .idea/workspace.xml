@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89b7f9ed-3d54-4954-b7fd-204f97770abc" name="Default Changelist" comment="" />
+    <list default="true" id="ffaaf040-7553-46a2-8f98-0c26fc8240ec" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -106,7 +106,8 @@
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
     </include_path>
   </component>
-  <component name="ProjectId" id="1j6mAdTejfM06Q3gAbbAATGlKmb" />
+  <component name="ProjectId" id="1j9gGUUvJuVheGGL2tr5Xx0gquJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -114,9 +115,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -128,12 +128,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="89b7f9ed-3d54-4954-b7fd-204f97770abc" name="Default Changelist" comment="" />
-      <created>1603132772920</created>
+      <changelist id="ffaaf040-7553-46a2-8f98-0c26fc8240ec" name="Default Changelist" comment="" />
+      <created>1603221627931</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1603132772920</updated>
-      <workItem from="1603132774588" duration="2420000" />
+      <updated>1603221627931</updated>
+      <workItem from="1603221629320" duration="10058000" />
     </task>
     <servers />
   </component>
@@ -141,13 +141,34 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2721" y="261" key="NewPhpFileDialog" timestamp="1603133878251">
+    <state x="770" y="404" key="#Composer" timestamp="1603221721246">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="770" y="404" key="#Composer/0.0.1920.1050/1920.-204.1920.1080@0.0.1920.1050" timestamp="1603221721246" />
+    <state width="1877" height="265" key="GridCell.Tab.0.bottom" timestamp="1603221807702">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.-204.1920.1080@0.0.1920.1050" timestamp="1603221807702" />
+    <state width="1877" height="265" key="GridCell.Tab.0.center" timestamp="1603221807702">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="265" key="GridCell.Tab.0.center/0.0.1920.1050/1920.-204.1920.1080@0.0.1920.1050" timestamp="1603221807702" />
+    <state width="1877" height="265" key="GridCell.Tab.0.left" timestamp="1603221807702">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="265" key="GridCell.Tab.0.left/0.0.1920.1050/1920.-204.1920.1080@0.0.1920.1050" timestamp="1603221807702" />
+    <state width="1877" height="265" key="GridCell.Tab.0.right" timestamp="1603221807702">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="265" key="GridCell.Tab.0.right/0.0.1920.1050/1920.-204.1920.1080@0.0.1920.1050" timestamp="1603221807702" />
+    <state x="2684" y="257" key="NewPhpFileDialog" timestamp="1603268366469">
       <screen x="1920" y="-204" width="1920" height="1080" />
     </state>
-    <state x="2721" y="261" key="NewPhpFileDialog/0.0.1920.1050/1920.-204.1920.1080@1920.-204.1920.1080" timestamp="1603133878251" />
-    <state x="2407" y="-17" key="SettingsEditor" timestamp="1603133616547">
-      <screen x="1920" y="-204" width="1920" height="1080" />
+    <state x="764" y="448" key="NewPhpFileDialog/0.0.1920.1050/1920.-204.1920.1080@0.0.1920.1050" timestamp="1603263938432" />
+    <state x="2684" y="257" key="NewPhpFileDialog/0.0.1920.1050/1920.-204.1920.1080@1920.-204.1920.1080" timestamp="1603268366469" />
+    <state x="793" y="293" width="916" height="708" key="SettingsEditor" timestamp="1603221995121">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="2407" y="-17" key="SettingsEditor/0.0.1920.1050/1920.-204.1920.1080@1920.-204.1920.1080" timestamp="1603133616547" />
+    <state x="793" y="293" width="916" height="708" key="SettingsEditor/0.0.1920.1050/1920.-204.1920.1080@0.0.1920.1050" timestamp="1603221995121" />
   </component>
 </project>
